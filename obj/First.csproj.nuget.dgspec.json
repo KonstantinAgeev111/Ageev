@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ageev\\source\\repos\\First\\First.csproj": {}
+    "C:\\Users\\Ageev\\OneDrive\\Документы\\Repositories\\Ageev\\First.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ageev\\source\\repos\\First\\First.csproj": {
+    "C:\\Users\\Ageev\\OneDrive\\Документы\\Repositories\\Ageev\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ageev\\source\\repos\\First\\First.csproj",
+        "projectUniqueName": "C:\\Users\\Ageev\\OneDrive\\Документы\\Repositories\\Ageev\\First.csproj",
         "projectName": "First",
-        "projectPath": "C:\\Users\\Ageev\\source\\repos\\First\\First.csproj",
+        "projectPath": "C:\\Users\\Ageev\\OneDrive\\Документы\\Repositories\\Ageev\\First.csproj",
         "packagesPath": "C:\\Users\\Ageev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ageev\\source\\repos\\First\\obj\\",
+        "outputPath": "C:\\Users\\Ageev\\OneDrive\\Документы\\Repositories\\Ageev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
