@@ -1,0 +1,14 @@
+C:\Users\Ageev\source\repos\First\bin\Debug\net8.0\First.exe
+C:\Users\Ageev\source\repos\First\bin\Debug\net8.0\First.deps.json
+C:\Users\Ageev\source\repos\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\Ageev\source\repos\First\bin\Debug\net8.0\First.dll
+C:\Users\Ageev\source\repos\First\bin\Debug\net8.0\First.pdb
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.dll
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.pdb
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\Ageev\source\repos\First\obj\Debug\net8.0\ref\First.dll
