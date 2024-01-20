@@ -25,8 +25,6 @@ namespace ConsoleApp1
             double multiplication = firstfigure * secondfigure * thirdfigure;
 
             Console.WriteLine("Cумма трех чисел: " + sum);
-            Console.WriteLine("Произведение трех чисел: " + multiplication);
-            Console.WriteLine("Произведение трех чисел: " + multiplication);
 
         }
     }
